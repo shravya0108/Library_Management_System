@@ -1,0 +1,42 @@
+.logoimg{
+
+    display: block;
+    margin:auto;
+    justify-content: center;
+    
+    width:230px;
+    height:100px;
+}
+
+.navi{
+    text-align: center;
+    width: auto;
+    margin: 0 auto;
+    font-family:'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color:	#89CFF0;
+    
+    
+
+    
+    
+}
+.navi li{
+    display: inline-block;
+    padding:15px 30px;
+    
+}
+.navi a{
+    text-align: center;
+    color: rgb(26, 1, 6);
+    text-decoration: none;
+}
+
+.navi a:hover{
+    color:rgb(250, 3, 3);
+    font-size:23px;
+}
+.row{
+    margin-top: 3rem;
+}
